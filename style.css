@@ -1,9 +1,18 @@
-body {
-    color: #444;
-    font-family: Arial, sans-serif;
+.tittle{
+    background-image: url("https://www.naadac.org/assets/2416/new-york-banner.jpg");
+    width: 100%;
+    height: 250px;
+    color: white;
+    text-align: center;
+    font-family: cursive;
 }
 
-.container {
-    width: 100%;
-    max-width: 960px;
+.navigator{
+    width: 200px;
+}
+
+.navigator a button:hover{
+    color: black;
+    background-color: darkgrey;
+    
 }
